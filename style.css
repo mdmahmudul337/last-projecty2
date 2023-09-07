@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.niloy{
+    width: 70%;
+}
+.niloy2{
+    color: white;
+    margin-right: 150px;
+}
+.section1{
+    background-image: url(alberta-2297204_1280.jpg);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    margin-bottom: 150px;
+}
+.niloy3{
+    padding: 250px 0;
+}
+.text-size{
+    font-size: 50px;
+    
+}
+.niloy4{
+    color: white;
+}
+.text-coler2{
+    font-size: 20px;
+    color: gray;
+}
+.section2-img{
+    height: 400px;
+    width: 100%;
+}
+.margin-containt{
+    margin: 90px 0;
+    padding: 0 50px;
+}
+.section3{
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+.card-img-my{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.section-img3{
+    background-image: url(alberta-2297204_1280.jpg);
+}
+.container-4{
+    padding: 100px 0;
+}
+.last-nav{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+    margin-top: 60px;
+    margin-left: 40px;
+}
+.last-text{
+    margin-left:70px ;
+    padding-bottom: 50px;
+}
+.last-logo{
+    height: 40px;
+    width: 40px;
+}
+.last-margin{
+    margin:70px 0;
+    padding-left: 300px;
+}
